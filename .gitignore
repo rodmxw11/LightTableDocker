@@ -1,0 +1,5 @@
+*.out
+*.OUT
+*~
+*#*
+lighttable-0.8.1-linux.tar.gz
